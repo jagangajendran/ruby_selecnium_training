@@ -2,6 +2,7 @@
 module A
   class One
     def o1
+      puts" methode one"
     end
   end
 
