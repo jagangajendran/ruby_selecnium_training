@@ -1,4 +1,5 @@
 module Caculator
+
   def Caculator.sum(a,b)
     puts "Sum is #{a+b}"
   end
